@@ -1,166 +1,166 @@
 {
     "top_n_overall": [
         {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/App.js",
-            "count": 14
-        },
-        {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/package.json",
-            "count": 9
+            "count": 32
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/README.md",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/eslint.config.mjs",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/post_process.log",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/post_process_status.lock",
-            "count": 8
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/App.js",
+            "count": 21
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/favicon.ico",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/index.html",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/logo192.png",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/logo512.png",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/manifest.json",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/robots.txt",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/react_server.log",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/App.css",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/index.css",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/index.js",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/logo.svg",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/setupTests.js",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/TicTacToe.css",
-            "count": 7
+            "count": 13
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/README.md",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/eslint.config.mjs",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/post_process.log",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/post_process_status.lock",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/react_server.log",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/logo.svg",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/setupTests.js",
+            "count": 12
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/TicTacToe.js",
-            "count": 5
+            "count": 12
         }
     ],
     "top_n_last_10_min_accessed": [
         {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/App.js",
-            "count": 11
-        },
-        {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/package.json",
-            "count": 9
+            "count": 32
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/README.md",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/eslint.config.mjs",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/post_process.log",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/post_process_status.lock",
-            "count": 8
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/App.js",
+            "count": 18
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/favicon.ico",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/index.html",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/logo192.png",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/logo512.png",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/manifest.json",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/public/robots.txt",
-            "count": 8
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/react_server.log",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/App.css",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/index.css",
-            "count": 8
+            "count": 13
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/index.js",
-            "count": 8
+            "count": 13
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/README.md",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/eslint.config.mjs",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/post_process.log",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/post_process_status.lock",
+            "count": 12
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/react_server.log",
+            "count": 12
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/logo.svg",
-            "count": 8
+            "count": 12
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/setupTests.js",
-            "count": 8
+            "count": 12
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/TicTacToe.css",
-            "count": 5
+            "count": 11
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/TicTacToe.js",
-            "count": 3
+            "count": 10
         }
     ]
 }
