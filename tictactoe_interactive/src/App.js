@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import TicTacToe from './TicTacToe';
 
 function App() {
   return (
@@ -8,9 +9,8 @@ function App() {
         <div className="container">
           <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%' }}>
             <div className="logo">
-              <span className="logo-symbol">*</span> KAVIA AI
+              <span className="logo-symbol">*</span> TicTacToe Interactive
             </div>
-            <button className="btn">Template Button</button>
           </div>
         </div>
       </nav>
@@ -18,15 +18,13 @@ function App() {
       <main>
         <div className="container">
           <div className="hero">
-            <div className="subtitle">AI Workflow Manager Template</div>
-            
-            <h1 className="title">tictactoe_interactive</h1>
-            
+            <div className="subtitle">Interactive Two-Player Game</div>
+            <h1 className="title">Tic Tac Toe</h1>
             <div className="description">
-              Start building your application.
+              Play against a friend on the same device. Take turns marking squares with X and O.
+              First player to get 3 in a row wins!
             </div>
-            
-            <button className="btn btn-large">Button</button>
+            <TicTacToe />
           </div>
         </div>
       </main>
