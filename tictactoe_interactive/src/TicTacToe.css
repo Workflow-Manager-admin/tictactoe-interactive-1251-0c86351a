@@ -1,0 +1,62 @@
+.game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.game-board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  background-color: var(--border-color);
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.square {
+  width: 80px;
+  height: 80px;
+  background-color: var(--kavia-dark);
+  border: 2px solid var(--border-color);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--text-color);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.square:hover:not(.clicked) {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.square.clicked {
+  cursor: not-allowed;
+}
+
+.game-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.status {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.player-x {
+  color: var(--kavia-orange);
+}
+
+.player-o {
+  color: #4A90E2;
+}
