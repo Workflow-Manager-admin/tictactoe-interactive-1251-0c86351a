@@ -2,7 +2,7 @@
     "top_n_overall": [
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/package.json",
-            "count": 32
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/App.js",
@@ -84,7 +84,7 @@
     "top_n_last_10_min_accessed": [
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/package.json",
-            "count": 32
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-interactive-1251-0c86351a/tictactoe_interactive/src/App.js",
